@@ -47,3 +47,7 @@
 ![Getting Started](<SCREENSHOT/Screenshot%20(197).png>)
 ![Getting Started](<SCREENSHOT/Screenshot%20(198).png>)
 ![Getting Started](<SCREENSHOT/Screenshot%20(199).png>)
+
+## 5. Result
+
+Tekan [disini](https://e-commercepublicdataset-bzw5juhctgjx7p5muauroc.streamlit.app/) untuk melihat dashboard
